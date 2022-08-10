@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/project_jr_2.iml" filepath="$PROJECT_DIR$/project_jr_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ru.javarush.golf.podkopaev.islandmodel.iml" filepath="$PROJECT_DIR$/ru.javarush.golf.podkopaev.islandmodel.iml" />
     </modules>
   </component>
 </project>
